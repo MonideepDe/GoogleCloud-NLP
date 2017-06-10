@@ -1,0 +1,9 @@
+# Mac files
+.DS_Store
+
+# C# files
+packages/
+gcnlp/obj
+gcnlp/bin
+gcnlp/Properties
+

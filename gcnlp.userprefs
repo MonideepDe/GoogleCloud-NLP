@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C01D2A45-ADC4-4498-BEEB-B27930020D15}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gcnlp/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="gcnlp/Program.cs" Line="12" Column="57" />
+      <File FileName="../../../../../../Library/Frameworks/Mono.framework/Versions/5.0.1/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="1980" Column="5" />
+      <File FileName="gcnlp/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.gcnlp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
