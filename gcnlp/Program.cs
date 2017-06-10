@@ -8,7 +8,7 @@ namespace gcnlp
         public static void Main(string[] args)
         {
             // Text to analyze
-            String text = "I hate you I will kill you I will sue you and your family and make you broke";
+            String text = "Hey there";
             var client = LanguageServiceClient.Create();
             var response = client.AnalyzeSentiment(new Document()
             {
